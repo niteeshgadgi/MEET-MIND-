@@ -1,6 +1,2 @@
 streamlit
 groq
-requests
-python-dotenv
-hindsight-client
-text
